@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\bin\Debug\PrimaAlgorythm.exe.config
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\bin\Debug\PrimaAlgorythm.exe
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\bin\Debug\PrimaAlgorythm.pdb
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\obj\Debug\PrimaAlgorythm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\obj\Debug\PrimaAlgorythm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\obj\Debug\PrimaAlgorythm.exe
+C:\Users\ASUS\Desktop\PrimaAlgorythm\PrimaAlgorythm\PrimaAlgorythm\obj\Debug\PrimaAlgorythm.pdb
