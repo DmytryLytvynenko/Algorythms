@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\bin\Debug\Stack Realisation.exe.config
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\bin\Debug\Stack Realisation.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\bin\Debug\Stack Realisation.pdb
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\obj\Debug\Stack Realisation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\obj\Debug\Stack Realisation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\obj\Debug\Stack Realisation.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Stack Realisation\Stack Realisation\obj\Debug\Stack Realisation.pdb

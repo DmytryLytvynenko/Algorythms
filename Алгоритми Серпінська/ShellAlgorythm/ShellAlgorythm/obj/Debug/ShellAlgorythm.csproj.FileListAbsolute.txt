@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\bin\Debug\ShellAlgorythm.exe.config
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\bin\Debug\ShellAlgorythm.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\bin\Debug\ShellAlgorythm.pdb
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\obj\Debug\ShellAlgorythm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\obj\Debug\ShellAlgorythm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\obj\Debug\ShellAlgorythm.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\ShellAlgorythm\ShellAlgorythm\obj\Debug\ShellAlgorythm.pdb

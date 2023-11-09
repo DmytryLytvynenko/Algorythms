@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabin-Karp algorithm", "Rabin-Karp algorithm\Rabin-Karp algorithm.csproj", "{59F84100-DB67-444F-BE08-96F8067180A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F84100-DB67-444F-BE08-96F8067180A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F84100-DB67-444F-BE08-96F8067180A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F84100-DB67-444F-BE08-96F8067180A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F84100-DB67-444F-BE08-96F8067180A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E83259-4EC8-4A00-9D4D-00162DFBA98B}
+	EndGlobalSection
+EndGlobal

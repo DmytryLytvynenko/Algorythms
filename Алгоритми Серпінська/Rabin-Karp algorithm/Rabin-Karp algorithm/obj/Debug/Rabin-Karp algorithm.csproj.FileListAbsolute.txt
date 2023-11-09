@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\obj\Debug\Rabin-Karp algorithm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\obj\Debug\Rabin-Karp algorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\bin\Debug\Rabin-Karp algorithm.exe.config
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\bin\Debug\Rabin-Karp algorithm.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\bin\Debug\Rabin-Karp algorithm.pdb
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\obj\Debug\Rabin-Karp algorithm.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\Rabin-Karp algorithm\Rabin-Karp algorithm\obj\Debug\Rabin-Karp algorithm.pdb

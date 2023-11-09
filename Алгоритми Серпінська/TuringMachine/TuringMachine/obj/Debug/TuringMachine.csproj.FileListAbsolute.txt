@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb

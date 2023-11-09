@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\bin\Debug\QueueRealization.exe.config
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\bin\Debug\QueueRealization.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\bin\Debug\QueueRealization.pdb
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\obj\Debug\QueueRealization.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\obj\Debug\QueueRealization.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\obj\Debug\QueueRealization.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\QueueRealization\QueueRealization\obj\Debug\QueueRealization.pdb

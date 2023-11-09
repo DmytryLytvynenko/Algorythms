@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.pdb
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.exe
+C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.pdb
