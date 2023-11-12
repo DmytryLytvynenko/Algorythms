@@ -10,6 +10,7 @@ namespace Rabin_Karp_algorithm
 
         static void Main(string[] args)
         {
+            // Дуже велика строка на 50000+ символів
             #region Text
             string mainString = "1mem11asd111111asd111111asd111111asd111111asd111111measidjaoisdoi11asd111111asd111111asd111111asd1asdjkasjkd1asd111111asd1" +
                                 "11111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111" +
@@ -438,7 +439,8 @@ namespace Rabin_Karp_algorithm
                                 "1asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111dfss" +
                                 "1asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111dfss" +
                                 "1asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111111asd111dfmemss";
-            #endregion
+            #endregion//
+
             string subString = "mem";
             List<int> results = new List<int>();
 
@@ -446,9 +448,9 @@ namespace Rabin_Karp_algorithm
             results = SearchPatternsInText(mainString, subString);
             DateTime t2 = DateTime.Now;
 
-            foreach (var item in results)
+            for (int i = 0; i < results.Count; i++)
             {
-                Console.Write($"{item} ");
+                Console.Write($"Позицiя елемента {i + 1} : {results[i]} ");
             }
 
             Console.WriteLine();
@@ -504,7 +506,7 @@ namespace Rabin_Karp_algorithm
                                     }
                                 }*/
             }
-            Console.WriteLine(counter);
+            Console.WriteLine($"Число входжень : {counter}");
             return substringPositions;
         }
     }
