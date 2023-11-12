@@ -5,3 +5,10 @@ C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringM
 C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
 C:\Users\User\Desktop\4 курс\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.AssemblyReference.cache
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+E:\GitHub\Algorythms\Алгоритми Серпінська\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb

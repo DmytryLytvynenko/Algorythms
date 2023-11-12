@@ -43,14 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dijkstra.cs" />
-    <Compile Include="Graph.cs" />
-    <Compile Include="GraphEdge.cs" />
-    <Compile Include="GraphVertex.cs" />
-    <Compile Include="GraphVertexInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpecialEdge.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

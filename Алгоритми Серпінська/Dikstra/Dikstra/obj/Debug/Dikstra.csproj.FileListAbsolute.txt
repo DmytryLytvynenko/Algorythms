@@ -5,3 +5,10 @@ E:\Progects C#\Dikstra\Dikstra\bin\Debug\Dikstra.exe
 E:\Progects C#\Dikstra\Dikstra\bin\Debug\Dikstra.pdb
 E:\Progects C#\Dikstra\Dikstra\obj\Debug\Dikstra.exe
 E:\Progects C#\Dikstra\Dikstra\obj\Debug\Dikstra.pdb
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\bin\Debug\Dikstra.exe.config
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\bin\Debug\Dikstra.exe
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\bin\Debug\Dikstra.pdb
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\obj\Debug\Dikstra.csproj.AssemblyReference.cache
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\obj\Debug\Dikstra.csproj.CoreCompileInputs.cache
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\obj\Debug\Dikstra.exe
+E:\GitHub\Algorythms\Алгоритми Серпінська\Dikstra\Dikstra\obj\Debug\Dikstra.pdb
